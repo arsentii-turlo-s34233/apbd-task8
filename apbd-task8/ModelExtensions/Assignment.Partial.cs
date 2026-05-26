@@ -1,4 +1,4 @@
-namespace UniversityTasksDbFirstApi.Models;
+namespace apbd_task8.Models;
 
 public partial class Assignment
 {
