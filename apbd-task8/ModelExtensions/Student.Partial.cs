@@ -1,8 +1,5 @@
 namespace apbd_task8.Models;
 
-{
-    
-}
 public partial class Student
 {
     public string FullName => $"{FirstName} {LastName}";
